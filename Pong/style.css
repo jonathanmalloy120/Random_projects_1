@@ -1,6 +1,11 @@
 #ball {
-
-
+    position: absolute;
+    background-color:darkgreen;
+    left: 485px;
+    top: 400px;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
 }
 #paddleLeft{
     position: absolute;
